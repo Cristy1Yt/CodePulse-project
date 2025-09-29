@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splinetool/runtime": "^1.10.70",
+    "live-server": "^1.2.2"
+  }
+}
